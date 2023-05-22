@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ইমেজ ক্যাশিং</string>
+    <string name="no_network_connection">নেটওয়ার্ক সংযোগ নেই</string>
+</resources>
